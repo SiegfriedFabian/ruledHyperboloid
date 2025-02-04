@@ -2,6 +2,10 @@
 
 Creates a hyperboloid surface using straight lines (ruled surface) in Blender.
 
+![Description of image](images/Screenshot1.png)
+![Description of image](images/Screenshot2.png)
+![Description of image](images/Screenshot3.png)
+
 ## Parameters
 
 - `radius` (default: 2): Radius of top and bottom rings
